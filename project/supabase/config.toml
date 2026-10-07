@@ -1,0 +1,2 @@
+[functions.sos-webhook]
+verify_jwt = true
